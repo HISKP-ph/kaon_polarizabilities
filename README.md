@@ -1,7 +1,5 @@
 # Kaon_polarizabilities 
 
-https://www.overleaf.com/project/6512e52e3bdab47f6fbd7efe
-
 ## Citation
 
 How to cite this project is noted in [CITATION](./CITATION.cff).
