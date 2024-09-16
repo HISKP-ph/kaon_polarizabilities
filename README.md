@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11369945.svg)](https://doi.org/10.5281/zenodo.11369945)
+[![arXiv article](https://img.shields.io/badge/article-%20hep--ph%3A2409.05955-brightgreen)](https://inspirehep.net/literature/2826947)
 
 # Kaon_polarizabilities 
 
